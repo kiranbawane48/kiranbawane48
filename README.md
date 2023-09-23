@@ -1,14 +1,8 @@
-<div style="display: flex; align-items: center;">
-  <img src="https://avatars.githubusercontent.com/u/100428197?v=4" alt="Your Profile Picture" width="100" style="margin-right: 20px;">
-  <div>
-    <h2>Hi there, I'm Kiran Bawane👋</h2>
-    <p>I'm a passionate developer...</p>
-    <br>
-    <p>🌐 [Website](https://kiranbawane0868@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/kiranbawane0868)</p>
-  </div>
-</div>
+ <img src="https://avatars.githubusercontent.com/u/100428197?v=4" alt="Your Profile Picture" width="100" style="margin-right: 20px;">
 
-
+## Hi there, I'm Kiran Bawane👋
+I'm a passionate developer...
+🌐 [Website](https://kiranbawane0868@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/kiranbawane0868)
 
 
 <!--
