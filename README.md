@@ -1,5 +1,13 @@
-### Hi there, Kiran Bawane 👋
-I am a software developer 
+![Your Profile Picture](link-to-your-profile-picture)
+
+## Hi there, I'm Kiran Bawane👋
+
+I'm a passionate developer...
+
+🌐 [Website](https://kiranbawane0868@gamil.com) | 💼 [LinkedIn](https://www.linkedin.com/in/kiranbawane0868)) 
+
+
+
 
 <!--
 **kiranbawane48/kiranbawane48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
