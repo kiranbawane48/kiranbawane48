@@ -1,4 +1,7 @@
 ![Your Profile Picture](https://avatars.githubusercontent.com/u/100428197?v=4)
+<img src="https://avatars.githubusercontent.com/u/100428197?v=4" alt="Your Profile Picture" width="100">
+
+
 
 
 ## Hi there, I'm Kiran Bawane👋
