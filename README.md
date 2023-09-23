@@ -1,6 +1,12 @@
-<img src="https://avatars.githubusercontent.com/u/100428197?v=4" alt="Your Profile Picture" width="100">
-
-
+<div style="display: flex; align-items: center;">
+  <img src="https://avatars.githubusercontent.com/u/100428197?v=4" alt="Your Profile Picture" width="100" style="margin-right: 20px;">
+  <div>
+    <h2>Hi there, I'm Kiran Bawane👋</h2>
+    <p>I'm a passionate developer...</p>
+    <br>
+    <p>🌐 <a href="https://kiranbawane0868@gmail.com">Website</a> | 💼 <a href="https://www.linkedin.com/in/kiranbawane0868">LinkedIn</a></p>
+  </div>
+</div>
 
 
 
