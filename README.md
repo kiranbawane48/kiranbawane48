@@ -1,5 +1,5 @@
 
-<img src="https://avatars.githubusercontent.com/u/100428197?v=4" alt="Your Profile Picture" width="100">
+<img src="![Kiran_Pics-modified](https://github.com/kiranbawane48/kiranbawane48/assets/100428197/d6f58f3b-8e68-4cc1-8118-6313ebbd7a5d)" alt="Your Profile Picture" width="100">
 
 
 
