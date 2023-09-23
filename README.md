@@ -1,4 +1,5 @@
-![Your Profile Picture](link-to-your-profile-picture)
+![Your Profile Picture](https://avatars.githubusercontent.com/u/100428197?v=4)
+
 
 ## Hi there, I'm Kiran Bawane👋
 
