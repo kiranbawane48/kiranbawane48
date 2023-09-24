@@ -1,5 +1,4 @@
-<img src="https://media.istockphoto.com/vectors/web-development-coding-and-programming-responsive-layout-internet-or-vector-id1167498797?k=6&m=1167498797&s=170667a&w=1584&h=396" alt="Your Profile Picture" width="1584" height="396">
-
+<img src="https://media.istockphoto.com/vectors/web-development-coding-and-programming-responsive-layout-internet-or-vector-id1167498797?k=6&m=1167498797&s=170667a&w=0&h=jRVlzc2OkNuUxz-JJy2mAM4CBkMssmBGVd3uEgksS3I=" alt="Your Profile Picture"   width="1584" height="396">
 
 # Hi there, I'm Kiran Bawane! 👋
 
