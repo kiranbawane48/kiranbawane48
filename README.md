@@ -1,7 +1,7 @@
 <img src="https://media.istockphoto.com/vectors/web-development-coding-and-programming-responsive-layout-internet-or-vector-id1167498797?k=6&m=1167498797&s=170667a&w=0&h=jRVlzc2OkNuUxz-JJy2mAM4CBkMssmBGVd3uEgksS3I=" alt="Your Profile Picture"   width="1584" height="220">
 
 
-# [Hi there, I'm Kiran Bawane! 👋]([https://github.com/kiranbawane48/kiranbawane48/edit/main/README.md](https://github.com/kiranbawane48/))
+# [Hi there, I'm Kiran Bawane! 👋]((https://github.com/kiranbawane48/))
 
 I'm a passionate developer on a mission to turn ideas into reality through code. Connect with me to explore the world of tech together.
 
