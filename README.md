@@ -5,6 +5,11 @@
 
 I'm a passionate developer on a mission to turn ideas into reality through code. Connect with me to explore the world of tech together.
 
+
+
+---
+
+
 ### [😇 About me: ](https://github.com/kiranbawane48/)
 - 👨‍💻 Software Engineer | Passionate Developer | Lifelong Learner
 - 🌟 1 Year of Experience in IT
@@ -13,7 +18,11 @@ I'm a passionate developer on a mission to turn ideas into reality through code.
   - 🎨 Frontend Enthusiast: HTML | CSS (Material-UI, Tailwind CSS, Bootstrap)
   - 🛠️ Proficient in Version Control: Git & GitHub | Deployment on Netlify
 
-  ---
+
+
+---
+
+
   
 ### [💻 Tools and Technology:](https://github.com/kiranbawane48/)
 <div class="logo-container">
@@ -26,6 +35,11 @@ I'm a passionate developer on a mission to turn ideas into reality through code.
   <img src="https://1000marcas.net/wp-content/uploads/2021/06/Git-Emblem-1536x960.jpg" alt="Git Logo" width="48" height="48">
   <img src="https://th.bing.com/th/id/OIP.U5M1SsQTFnFJEMd8lbCSdQHaE8?w=267&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Netlify Logo" width="48" height="48">
 </div>
+
+
+
+---
+
 
 ### [📫 Reach out to me:](https://github.com/kiranbawane48/)
 
@@ -41,6 +55,11 @@ I'm a passionate developer on a mission to turn ideas into reality through code.
 <a href="https://leetcode.com/kiranbawane0868/">
   <img src="https://th.bing.com/th/id/OIP.tQl87Uu6ExLiN0G77N2howHaHa?pid=ImgDet&rs=1.png" alt="LeetCode" width="48" height="48">
 </a>
+
+
+
+
+---
 
 
 
