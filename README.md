@@ -2,6 +2,8 @@
 
 
 ## [Hi there, I'm Kiran Bawane! 👋](https://github.com/kiranbawane48/)
+<div style="background-color: #000; height: 2px; margin-top: 16px; margin-bottom: 16px;"></div>
+
 
 I'm a passionate developer on a mission to turn ideas into reality through code. Connect with me to explore the world of tech together.
 
