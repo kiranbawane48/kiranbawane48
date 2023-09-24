@@ -1,4 +1,4 @@
-<img src="https://media.istockphoto.com/vectors/web-development-coding-and-programming-responsive-layout-internet-or-vector-id1167498797?k=6&m=1167498797&s=170667a&w=0&h=jRVlzc2OkNuUxz-JJy2mAM4CBkMssmBGVd3uEgksS3I=" alt="Your Profile Picture"   width="1584" height="396">
+<img src="https://media.istockphoto.com/vectors/web-development-coding-and-programming-responsive-layout-internet-or-vector-id1167498797?k=6&m=1167498797&s=170667a&w=0&h=jRVlzc2OkNuUxz-JJy2mAM4CBkMssmBGVd3uEgksS3I=" alt="Your Profile Picture"   width="1584" height="270">
 
 # Hi there, I'm Kiran Bawane! 👋
 
@@ -28,7 +28,7 @@ I'm a passionate developer on a mission to turn ideas into reality through code.
   <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png" alt="React Logo" width="60" height="60">
   <img src="https://i1.wp.com/amarcourse.com/wp-content/uploads/2019/04/what-is-bootstrap.png?fit=695%2C465&ssl=1" alt="Bootstrap Logo" width="60" height="60">
   <img src="https://1000marcas.net/wp-content/uploads/2021/06/Git-Emblem-1536x960.jpg" alt="Git Logo" width="60" height="60">
-  <img src="https://th.bing.com/th/id/OIP.U5M1SsQTFnFJEMd8lbCSdQHaE8?w=267&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Netlify Logo" width="60" height="70">
+  <img src="https://th.bing.com/th/id/OIP.U5M1SsQTFnFJEMd8lbCSdQHaE8?w=267&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Netlify Logo" width="60" height="50">
 </div>
 
 ## 📫 Reach out to me
