@@ -12,7 +12,9 @@ I'm a passionate developer on a mission to turn ideas into reality through code.
   - 🧰 Languages: Core Java | JavaScript (React.js) | SQL
   - 🎨 Frontend Enthusiast: HTML | CSS (Material-UI, Tailwind CSS, Bootstrap)
   - 🛠️ Proficient in Version Control: Git & GitHub | Deployment on Netlify
-    
+
+  ---
+  
 ### [💻 Tools and Technology:](https://github.com/kiranbawane48/)
 <div class="logo-container">
   <img src="https://th.bing.com/th/id/OIP.7khrXvKlEjzsh2VKsc_cAAHaHa?pid=ImgDet&rs=1" alt="Java Logo" width="48" height="48">
