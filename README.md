@@ -42,12 +42,18 @@ I'm a passionate developer on a mission to turn ideas into reality through code.
 
 
 📫 **Reach out to me** 
-[![Gmail](https://news.wirefly.com/sites/phonedog.com/files/styles/blog_entry/public/blog/main_image/2020/10/gmail-new-icon-2.jpg?itok=McR8B1ny.png)](mailto:kiranbawane0868@gmail.com) &nbsp;
-[![LinkedIn](![l](https://github.com/kiranbawane48/kiranbawane48/assets/100428197/e5ec40b5-4322-4e4d-b08e-28d4aa4975c4)
-)](https://www.linkedin.com/in/kiranbawane0868) &nbsp;
-[![HackerRank](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=4088.png)](https://www.hackerrank.com/kiranbawane0868) &nbsp;
-[![LeetCode](https://th.bing.com/th/id/OIP.tQl87Uu6ExLiN0G77N2howHaHa?pid=ImgDet&rs=1.png)](https://leetcode.com/kiranbawane0868/)
-
+<a href="mailto:kiranbawane0868@gmail.com">
+  <img src="https://news.wirefly.com/sites/phonedog.com/files/styles/blog_entry/public/blog/main_image/2020/10/gmail-new-icon-2.jpg?itok=McR8B1ny.png" alt="Gmail" width="50" height="50">
+</a>
+<a href="https://www.linkedin.com/in/kiranbawane0868">
+  <img src="https://github.com/kiranbawane48/kiranbawane48/assets/100428197/e5ec40b5-4322-4e4d-b08e-28d4aa4975c4" alt="LinkedIn" width="50" height="50">
+</a>
+<a href="https://www.hackerrank.com/kiranbawane0868">
+  <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=4088.png" alt="HackerRank" width="50" height="50">
+</a>
+<a href="https://leetcode.com/kiranbawane0868/">
+  <img src="https://th.bing.com/th/id/OIP.tQl87Uu6ExLiN0G77N2howHaHa?pid=ImgDet&rs=1.png" alt="LeetCode" width="50" height="50">
+</a>
 
 <!--
 **kiranbawane48/kiranbawane48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
