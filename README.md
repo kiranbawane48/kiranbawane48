@@ -5,7 +5,7 @@
 
 I'm a passionate developer on a mission to turn ideas into reality through code. Connect with me to explore the world of tech together.
 
-# [About me: ](https://github.com/kiranbawane48/kiranbawane48/edit/main/README.md)
+# [😇 About me: ](https://github.com/kiranbawane48/kiranbawane48/edit/main/README.md)
 - 👨‍💻 Software Engineer | Passionate Developer | Lifelong Learner
 - 🌟 1 Year of Experience in IT
 - 💻 **Tech Stack**:
