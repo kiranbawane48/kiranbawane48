@@ -1,11 +1,11 @@
 <img src="https://media.istockphoto.com/vectors/web-development-coding-and-programming-responsive-layout-internet-or-vector-id1167498797?k=6&m=1167498797&s=170667a&w=0&h=jRVlzc2OkNuUxz-JJy2mAM4CBkMssmBGVd3uEgksS3I=" alt="Your Profile Picture"   width="1584" height="220">
 
 
-# [Hi there, I'm Kiran Bawane! 👋](https://github.com/kiranbawane48/)
+## [Hi there, I'm Kiran Bawane! 👋](https://github.com/kiranbawane48/)
 
 I'm a passionate developer on a mission to turn ideas into reality through code. Connect with me to explore the world of tech together.
 
-# [😇 About me: ](https://github.com/kiranbawane48/)
+### [😇 About me: ](https://github.com/kiranbawane48/)
 - 👨‍💻 Software Engineer | Passionate Developer | Lifelong Learner
 - 🌟 1 Year of Experience in IT
 - 💻 **Tech Stack**:
@@ -13,7 +13,7 @@ I'm a passionate developer on a mission to turn ideas into reality through code.
   - 🎨 Frontend Enthusiast: HTML | CSS (Material-UI, Tailwind CSS, Bootstrap)
   - 🛠️ Proficient in Version Control: Git & GitHub | Deployment on Netlify
     
-# [💻 Tools and Technology:](https://github.com/kiranbawane48/)
+### [💻 Tools and Technology:](https://github.com/kiranbawane48/)
 <div class="logo-container">
   <img src="https://th.bing.com/th/id/OIP.7khrXvKlEjzsh2VKsc_cAAHaHa?pid=ImgDet&rs=1" alt="Java Logo" width="48" height="48">
   <img src="https://mpng.subpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" alt="HTML Logo" width="48" height="48">
@@ -25,7 +25,7 @@ I'm a passionate developer on a mission to turn ideas into reality through code.
   <img src="https://th.bing.com/th/id/OIP.U5M1SsQTFnFJEMd8lbCSdQHaE8?w=267&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Netlify Logo" width="48" height="48">
 </div>
 
-# [📫 Reach out to me:](https://github.com/kiranbawane48/)
+### [📫 Reach out to me:](https://github.com/kiranbawane48/)
 
 <a href="mailto:kiranbawane0868@gmail.com">
   <img src="https://news.wirefly.com/sites/phonedog.com/files/styles/blog_entry/public/blog/main_image/2020/10/gmail-new-icon-2.jpg?itok=McR8B1ny.png" alt="Gmail" width="48" height="48">
